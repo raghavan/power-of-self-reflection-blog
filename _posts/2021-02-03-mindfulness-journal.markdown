@@ -1,3 +1,5 @@
+
+---
 layout: post
 title:  "Mindfulness Journal"
 date:   2021-02-03 03:46:49 +0530
@@ -17,7 +19,7 @@ When you experience mindfulness your mind;
 -   your nerves relax
 -   and the anxiety you feel dissipates.
 
-# Where to Practice Mindfulness
+## Where to Practice Mindfulness
 Mindfulness can be practiced at home, in your office or in your car on a break. It can be done at any time of day. You begin your day by releasing your worries and you create space for a deeper sleep with mindfulness.
 
 ## How to Practice Mindfulness
