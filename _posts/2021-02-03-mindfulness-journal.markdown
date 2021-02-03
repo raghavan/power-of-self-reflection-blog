@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title:  "Mindfulness Journal"
 date:   2021-02-03 03:46:49 +0530
 categories: journal
 ---
-
 
  <img src="https://images.unsplash.com/photo-1479334053136-4dcabc560c9a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="pic">
 
