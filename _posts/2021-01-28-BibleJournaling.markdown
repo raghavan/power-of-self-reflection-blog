@@ -45,7 +45,7 @@ These are the few starting points you can use for Bible journaling. Once you sta
 
 Below are some creative ways you can stay organized, and make the Bible reading more meaningful. 
 
-##Select a Bible:
+## Select a Bible:
 
 The first thing you need is, of course, a Bible. While there is a variety of Bibles available in the market, you can use any Bible of your choice. Consider a Bible with bigger words as it's easy to read. Similarly, some Bibles have extra-wide margins of 2 inches that give you enough room to do the artwork. 
 Opt for the ones with thicker pages if you are planning to use ink pens or watercolors as the colors or inks can bleed out to other pages if the paper is thin. So the selection of the Bible also depends on your artwork. 
