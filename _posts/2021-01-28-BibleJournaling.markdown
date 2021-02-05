@@ -2,7 +2,7 @@
 layout: post
 title:  "Bible Journaling"
 date:   2021-02-5 08:46:49 +0530
-categories: bible, journal
+categories: bible
 ---
 
 <img src="https://images.unsplash.com/photo-1498426317435-c4a0ebd4774f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="bible journal">
