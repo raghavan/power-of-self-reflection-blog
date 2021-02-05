@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bible Journaling"
-date:   2021-02-25 08:46:49 +0530
+date:   2021-02-5 08:46:49 +0530
 categories: bible, journal
 ---
 
