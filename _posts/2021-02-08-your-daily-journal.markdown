@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Your Daily Journal"
-date:   2021-02-5 08:46:49 +0530
+date:   2021-02-8 08:46:49 +0530
 categories: daily
 ---
 
